@@ -1,0 +1,37 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: #D2CFCF;
+}
+.container-centr
+{
+    height: 100%;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.container 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 399px;
+    height: 405px;
+    left: 440px;
+    top: 158px;
+
+    background: #FFFFFF;
+    border-radius: 3px;
+
+}
+.radio
+{
+    display: flex;
+
+}
+ 
